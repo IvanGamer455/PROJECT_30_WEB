@@ -8,4 +8,5 @@ This webpage project of mine is open-source to all
 Changelog 4-10-2024:
 
 -Made The Lemonade Rhapsody Archive into a separate repo: https://github.com/IvanGamer455/LMRHAP_WEB
+
 -Added Band Goals in the "About" Page
