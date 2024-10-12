@@ -4,6 +4,9 @@ This webpage project of mine is open-source to all
 
 
 
+	Changelog 9-10-2024:
+ 	-Renamed The Lemonade Rhapsody Archive to The Lemonade Rhapsody not marking the end of the band but its current hiatus
+
 
 	Changelog 4-10-2024:
 	-Made The Lemonade Rhapsody Archive into a separate repo: https://github.com/IvanGamer455/LMRHAP_WEB
