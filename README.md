@@ -2,7 +2,9 @@
 Official Webpage of Project 30.
 This webpage project of mine is open-source to all
 
-
+	Changelog 5-9-2025:
+	-Cleaned up some clutter
+	-Improved list utilizing "<ul>", "<li>"
 
 	Changelog 9-10-2024:
  	-Renamed The Lemonade Rhapsody Archive to The Lemonade Rhapsody not marking the end of the band but its current hiatus
